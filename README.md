@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Survey Form
 
-# You can find my implementation of this assignment here: 
+# You can find my implementation of this assignment here: https://kgotso-koete.github.io/freecodecamp-responsive-form/
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
